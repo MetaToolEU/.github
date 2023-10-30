@@ -5,8 +5,6 @@ Under the predictive account of awareness, and based on both neuroscientific and
 1) develop a novel computational model of metacognition based on predictive processing (metaprediction) and
 2) validate its utility in real robots in two use case scenarios: conditional sequential tasks and tool creation.
 
-## Contribution Guidelines
-
 ## Useful Resources
 https://www.metatool-project.eu/
 
