@@ -1,4 +1,15 @@
-## Hi there 👋
+## About
+METATOOL (A metapredictive model of synthetic awareness for enabling tool invention) is a project funded under The European Innovation Council (EIC) that aims to provide a computational model of synthetic awareness to enhance adaptation and achieve tool invention. This will enable a robot to monitor and self-evaluate its performance, ground and reuse this information for adapting to new circumstances, and finally unlock the possibility of creating new tools. 
+
+Under the predictive account of awareness, and based on both neuroscientific and archeological evidence, we will: 
+1) develop a novel computational model of metacognition based on predictive processing (metaprediction) and
+2) validate its utility in real robots in two use case scenarios: conditional sequential tasks and tool creation.
+
+## Contribution Guidelines
+
+## Useful Resources
+https://www.metatool-project.eu/
+
 
 <!--
 
