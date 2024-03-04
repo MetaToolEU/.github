@@ -17,6 +17,8 @@ To achieve the general aim of the project, three specific objectives should be a
 3) validate our synthetic awareness technology on embodied artificial agents.
 
 ## Useful Resources
+For information about other METATOOL products, reports or articles, please visit out Web site:
+
 https://www.metatool-project.eu/
 
 ## Partners
