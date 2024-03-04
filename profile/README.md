@@ -20,17 +20,16 @@ To achieve the general aim of the project, three specific objectives should be a
 https://www.metatool-project.eu/
 
 ## Partners
-
-![](./Images/UPM_logo.jpg)
-![](./Images/ru_logo_en_color.jpg)
-![](./Images/donders_logo.svg)
-![](./Images/ASLab_logo_trans.png)
-![](./Images/HU_Siegel_HU-blau_4C.jpg)
+<p align="center"> 
+![](./Images/Partners.png)
+</p>
 
 ## Funding
 The following project has been funded by the European Innovation Council (EIC).
 Grant agreement identifier: 101070940
+<p align="center"> 
 ![](./Images/eu_funded_en.jpg)
+</p>
 
 <!--
 ## Contribution guidelines
