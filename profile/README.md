@@ -9,7 +9,7 @@ Under the predictive account of awareness, and based on both neuroscientific and
 2) validate its utility in real robots in two use case scenarios: conditional sequential tasks and tool creation.
 
 ## Objectives
-This project addresses synthetic awareness as a metacognitive process built over the predictive brain hypothesis. The main focus is on the development of a computational model that enables an artificial agent to go from tool use to tool invention. 
+This project addresses synthetic awareness as a metacognitive process built over the predictive brain hypothesis. The main focus is the development of a computational model that enables an artificial agent to go from tool use to tool invention. 
 
 To achieve the general aim of the project, three specific objectives should be achieved:
 1) study the consistency of metacognitive capabilities and awareness as a facilitator for the emergence of tool making
