@@ -19,16 +19,16 @@ https://www.metatool-project.eu/
 
 ## Partners
 
-![](UPM_logo.jpg)
-![](ru_logo_en_color.jpg)
-![](donders_logo.svg)
-![](ASLab_logo_trans.png)
-![](HU_Siegel_HU-blau_4C.jpg)
+![](./Images/UPM_logo.jpg)
+![](./Images/ru_logo_en_color.jpg)
+![](./Images/donders_logo.svg)
+![](./Images/ASLab_logo_trans.png)
+![](./Images/HU_Siegel_HU-blau_4C.jpg)
 
 ## Funding
 The following project has been funded by the European Innovation Council (EIC).
 Grant agreement identifier: 101070940
-![](eu_funded_en.jpeg)
+![](./Images/eu_funded_en.jpeg)
 
 <!--
 ## Contribution guidelines
