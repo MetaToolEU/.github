@@ -21,7 +21,7 @@ https://www.metatool-project.eu/
 
 ## Partners
 <p align="center"> 
-![](./Images/Partners.png)
+<img  src= "./Images/Partners.png">
 </p>
 
 ## Funding
