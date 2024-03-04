@@ -1,5 +1,5 @@
 ## About
-<img src ="./Images/metatool-logo.png" widht = "100">
+<img src ="./Images/metatool-logo.png" widht = "10">
 METATOOL (A metapredictive model of synthetic awareness for enabling tool invention) is a project funded under The European Innovation Council (EIC) that aims to provide a computational model of synthetic awareness to enhance adaptation and achieve tool invention. This will enable a robot to monitor and self-evaluate its performance, ground and reuse this information for adapting to new circumstances, and finally unlock the possibility of creating new tools. 
 
 Under the predictive account of awareness, and based on both neuroscientific and archeological evidence, we will: 
