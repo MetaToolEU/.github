@@ -20,6 +20,14 @@ To achieve the general aim of the project, three specific objectives should be a
 https://www.metatool-project.eu/
 
 ## Partners
+UNIVERSIDAD POLITECNICA DE MADRID (UPM)
+* STICHTING RADBOUD UNIVERSITEIT (SRU)
+* TECHNISCHE UNIVERSITEIT DELFT (TUD)
+* HUMBOLDT-UNIVERSITAET ZU BERLIN (UBER)
+* PAL ROBOTICS SL (PAL)
+* SENTA BV (SENTA)
+* THE UNIVERSITY OF SUSSEX
+* CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS
 <p align="center"> 
 <img  src= "./Images/Partners.png">
 </p>
