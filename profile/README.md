@@ -28,7 +28,7 @@ https://www.metatool-project.eu/
 The following project has been funded by the European Innovation Council (EIC).
 Grant agreement identifier: 101070940
 <p align="center"> 
-<img  src="./Images/eu_funded_en.jpg">
+<img  src="./Images/eu_funded_en.jpg" width = "400">
 </p>
 
 <!--
