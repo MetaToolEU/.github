@@ -1,4 +1,4 @@
-## About
+## METATOOL PROJECT
 <p align="center"> 
 <img  src="./Images/metatool-logo.png" width = "400">
 </p>
